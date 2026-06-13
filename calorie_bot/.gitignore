@@ -1,0 +1,26 @@
+# Environment
+.env
+.env.local
+
+# Dependencies
+vendor/
+
+# Logs
+logs/
+*.log
+
+# Storage uploads
+storage/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cache
+bootstrap/cache/
